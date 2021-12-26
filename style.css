@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif
+}
+
+nav a {
+    background-color: blueviolet;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 15px;
+    border: 3px solid black;
+}
+
+nav {
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    text-align: center;
+}
+
+header a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+boba {
+    text-align: center;
+}
+
+img123 img {
+    margin-left: 15%;
+}
+
+img123 h2 {
+    text-align: center;
+    background-color: tomato;
+    border: 2px solid yellowgreen;
+}
+
+footer {
+    background-color: thistle;
+    border: 3px solid black 
+}
+
+footer p {
+    border: 1px solid black;
+}
+
+img123 a {
+    text-decoration: none;
+    color: orangered;
+    background-color: powderblue;
+    border-radius: 3px;
+    border: 1px solid black
+}
